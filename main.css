@@ -1,0 +1,28 @@
+div.header-wrapper {
+    background-color: black;
+}
+
+div #sidebar {
+    background-color: rgb(0, 0, 0) !important;
+}
+
+#homeboard section article {
+    background-color: #ffffff !important;
+}
+
+#sidebar {
+    color: #ccff14 !important;
+    background-color:tan !important;
+}
+
+.understand-alerts a:hover {
+    background-color: tan !important;
+}
+
+#intra {
+    color:indigo !important;
+}
+
+#header-wrapper {
+    color: black !important;
+}
